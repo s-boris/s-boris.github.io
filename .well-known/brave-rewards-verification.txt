@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: s-boris.github.io
+Token: c8382ca6d0bf8607485f29cfdab32d63ba037c291bac34d45032f30e1954b478
